@@ -1,0 +1,3 @@
+word=input("Enter the string").lower()
+word.split()
+print(word)
