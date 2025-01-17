@@ -19,21 +19,21 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - The screen shows the options for `Employee`, `Supplier`, `Category`, `Products` and `Sales` to perform CRUD operations.
 - This screen also updates timely as you perform operations on any of these Labels.
 
-![alt text](dashboard.png)
+![alt text](dashboard.png.png)
 
 ### 2. employee.py
 - This screen collects and shows the complete data regarding an `employee`.
 - Buttons are functionalised accordingly.
 - You can search an employee by its `email`, `name` or `contact`.
 
-![alt text](employee.png)
+![alt text](employee.png.png)
 
 ### 3. supplier.py
 - This screen collects and shows the complete data regarding `suppliers`.
 - Buttons are functionalised accordingly.
 - You can search a particular supplier details by `invoice no`.
 
-![alt text](supplier.png)
+![alt text](supplier.png.png)
 
 ### 4. product.py
 - This screen collects and shows the complete data about the `product`.
@@ -41,19 +41,19 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - Buttons are functionalised accordingly.
 - You can search a product by its `category`, `supplier` or `name`.
 
-![alt text](product.png)
+![alt text](product.png.png)
 
 ### 5. category.py
 - This screen collects and shows the information about the category of the product. LIKE:- If Product name is `IPhone` then its category is `Phone`.
 - This screen contains 2 buttons namely `add` and `delete`. These buttons are functionalised accordingly.
 
-![alt text](category.png)
+![alt text](category.png.png)
 
 ### 6. sales.py
 - This screen stores and shows the bills by an `invoice no`.
 - Buttons are functionalised accordingly.
 
-![alt text](sales.png)
+![alt text](sales.png.png)
 
 ### 7. creat_db.py
 - This is the database file for all the tables.
@@ -65,7 +65,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - This screen also contains a `calculator` to calculate the total amount.
 - Buttons are functionalised accordingly.
 
-![alt text](billing.png)
+![alt text](billing.png.png)
 
 #### Detailed Steps:
 1. Click on the `create_db.py` file first and run it.
